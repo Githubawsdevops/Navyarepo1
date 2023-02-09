@@ -1,1 +1,2 @@
- Hello, this is the first push to github:
+Hello, this is the first push to github!
+this is for the second commit!
